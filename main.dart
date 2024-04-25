@@ -99,21 +99,21 @@ List<Plato> platos = [
      precio: 12.99,
      imagen: 'assets/ensalada_pollo.jpg',
    ),
-  // Plato(
-  //   nombre: 'Tacos de carnitas',
-  //   precio: 15.99,
-  //   imagen: 'assets/tacos_carnitas.jpg',
-  // ),
-  // Plato(
-  //   nombre: 'Sándwich de atún',
-  //   precio: 10.99,
-  //   imagen: 'assets/sandwich_atun.jpg',
-  // ),
-  // Plato(
-  //   nombre: 'Pasta con salsa de tomate',
-  //   precio: 14.99,
-  //   imagen: 'assets/pasta_salsa_tomate.jpg',
-  // ),
+   Plato(
+     nombre: 'Tacos de carnitas',
+     precio: 15.99,
+     imagen: 'assets/tacos_carnitas.png',
+   ),
+   Plato(
+     nombre: 'Sándwich de atún',
+     precio: 10.99,
+     imagen: 'assets/sandwich_atun.png',
+   ),
+   Plato(
+     nombre: 'Pasta con salsa de tomate',
+     precio: 14.99,
+     imagen: 'assets/pasta_salsa_tomate.png',
+   ),
   Plato(
     nombre: 'Hamburguesa clásica',
     precio: 12.99,
